@@ -1,0 +1,35 @@
+{
+  "name": "easy-sqlite",
+  "version": "1.13.0",
+  "description": "A simple JSON SQLite library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/obe711/easy-sqlite.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "sql",
+    "sqlite",
+    "json"
+  ],
+  "author": "Obediah Benjamin Klopfenstein <obe711@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obe711/easy-sqlite/issues"
+  },
+  "homepage": "https://github.com/obe711/easy-sqlite#readme",
+  "contributors": [
+    "Eric Scott Marquez  <ericscottmarquez@gmail.com> (https://github.com/ericscottmarquez)",
+    "Casey Webb <casey@guinnpartners.com> (https://github.com/caseyrwebb)",
+    "Nick Griffith <nick@guinnpartners.com> (https://github.com/Nickolans)",
+    "Justin Abreu <justin@guinnpartners.com> (https://github.com/JGABREU2145)"
+  ],
+  "dependencies": {
+    "better-sqlite3": "^7.4.3"
+  }
+}
