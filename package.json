@@ -1,6 +1,6 @@
 {
-  "name": "easy-sqlite",
-  "version": "1.13.0",
+  "name": "easy-sqlite-json",
+  "version": "1.14.0",
   "description": "A simple JSON SQLite library",
   "main": "index.js",
   "scripts": {
